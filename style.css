@@ -1,0 +1,49 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #e9ecef;
+  height: 100vh;
+}
+
+.logo {
+  color: rgb(187, 207, 152);
+  font-size: 2rem;
+}
+
+.list__item {
+  font-size: 1.6rem;
+}
+
+.card img {
+  width: 20rem;
+}
+
+.title {
+  font-size: 3rem;
+  color: goldenrod;
+}
+
+p {
+  font-size: 1.6rem;
+  color: darkgray;
+}
+
+.title-second {
+  font-size: 2.5rem;
+  color: darkmagenta;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #fff;
+}
+
+.price {
+  font-weight: bold;
+  color: midnightblue;
+}
